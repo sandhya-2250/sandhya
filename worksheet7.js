@@ -1,9 +1,9 @@
 //worksheet7.js objects
 let person = {
-    name: "Sandesh",
-    cast: "Ghimire",
-    age: 17,
-    city: "Ilam"
+    name: "Sandhya",
+    cast: "Shrestha",
+    age: 18,
+    city: "Arghakhanchi"
 };
 console.log(person);
 
@@ -15,8 +15,8 @@ person.city = "Kathmandu";
 console.log(person);
 
 //output:
-// { name: 'Sandesh', cast: 'Ghimire', age: 17, city: 'Ilam' }
-// Sandesh
-// Ghimire
+// { name: 'Sandhya', cast: 'Shrestha', age: 17, city: 'Arghakhanchi' }
+// Sandhya
+// Shrestha
 // 17
-// { name: 'Sandesh', cast: 'Ghimire', age: 17, city: 'Kathmandu' }
+// { name: 'Sandhya', cast: 'Shrestha', age: 18, city: 'Kathmandu' }
