@@ -21,7 +21,7 @@ class Student extends Person {
   }
 }
 
-let student1 = new Student("Sandesh", "Amar Secondary School");
+let student1 = new Student("Sandhya", "Mahendra basic School");
 student1.greet();
 student1.study();
 student1.changeSchool("Adarsha Secondary School");
