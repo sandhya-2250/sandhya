@@ -15,8 +15,8 @@ person.city = "Kathmandu";
 console.log(person);
 
 //output:
-// { name: 'Sandhya', cast: 'Shrestha', age: 17, city: 'Arghakhanchi' }
+// { name: 'Sandhya', cast: 'Shrestha', age: 18, city: 'Arghakhanchi' }
 // Sandhya
 // Shrestha
-// 17
+// 18
 // { name: 'Sandhya', cast: 'Shrestha', age: 18, city: 'Kathmandu' }
