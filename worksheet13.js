@@ -18,6 +18,6 @@ class Student extends Person {
     console.log(`${this.name} is studying at ${this.school}`);
   }
 }
-let student1 = new Student("SANDESH", "ADARSHA SECONDARY SCHOOL");
+let student1 = new Student("SANDHYA", "ADARSHA SECONDARY SCHOOL");
 student1.greet();
 student1.study();
