@@ -50,4 +50,4 @@ let c;
 // output:
 // First alert: "Sandhya"
 // Second alert: "Do you want to continue? Press 1 to continue"
-// If user enters "1", the loop continues, otherwise it ends with "Loop ended. Bye Sandesh!"
+// If user enters "1", the loop continues, otherwise it ends with "Loop ended. Bye Sandhya!"
