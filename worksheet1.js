@@ -2,7 +2,7 @@
 
 // This is a simple JavaScript program that declares three variables
 // and prints their values to the console.
-let name = "sandesh";
+let name = "sandhya";
 let age = 17;
 let student = false;
 
