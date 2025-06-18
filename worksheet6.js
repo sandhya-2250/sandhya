@@ -1,7 +1,7 @@
 //worksheet6.js array
 
 let students=[
-  {name:"Sandhya",cast:"Shrestha",age:17},
+  {name:"Sandhya",cast:"Shrestha",age:18},
   {name:"Kripa",cast:"Shrestha",age:"Who knows"},
   {name:"Dipsana",cast:"Karki",age:"Who knows"},
   ];
@@ -12,4 +12,4 @@ let students=[
 //output:
 // Sandhya
 // Shrestha
-// 17
+// 18
