@@ -42,12 +42,12 @@ console.log("\n\n\n");
 
 let c;
         do {
-            alert("Sandesh");
+            alert("Sandhya");
             c = prompt("Do you want to continue?\nPress 1 to continue");
         } while (c === "1");
 
-        alert("Loop ended. Bye Sandesh!");
+        alert("Loop ended. Bye Sandhya!");
 // output:
-// First alert: "Sandesh"
+// First alert: "Sandhya"
 // Second alert: "Do you want to continue? Press 1 to continue"
 // If user enters "1", the loop continues, otherwise it ends with "Loop ended. Bye Sandesh!"
